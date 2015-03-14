@@ -20,6 +20,10 @@ Plugin Sensei Lesson Timer allows you to manage time spent in a lesson for stude
 1. Upload the sensei_lesson_timer folder (the folder itself, NOT it's contents) to the /wp-content/plugins directory.
 1. Activate the plugin through the Admin Controls under Plugins > Installed Plugins.
 
+== Disclaimer ==
+
+Skinny Cat Software, LLC expressly disclaims any warranty for the Sensei Lesson Timer plugin (Plugin). The Plugin is provided 'As Is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, non-infringement, or fitness for a particular purpose. Skinny Cat Software, LLC does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the Plugin.  Skinny Cat Software, LLC further expressly disclaims any warranty or representation to Authorized Users or to any third party.
+
 == Frequently Asked Questions ==
 
 = How do I set the time for the countdown timer within a lesson? =
@@ -36,12 +40,10 @@ No. Values are set in 1 minute incraments.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * First release version.
+= 1.0.1 =
+* Readme Disclaimer update.
 
 == Upgrade Notice ==
-=
-== Arbitrary section ==
-
-== A brief Markdown Example ==
-
+First release
