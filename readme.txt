@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: skinnycat
-Donate link: http://www.skinnycatsoftware.com/wordpress-plugin-donations/
+Donate link: http://www.skinnycatsoftware.com
 Tags: sensei
-Requires at least: 3.9.2
-Tested up to: 4.1.1
-Stable tag: 4.1.1
+Requires at least: 4.1.1
+Tested up to: 4.2.1
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,12 +36,15 @@ No. Values are set in 1 minute increments.
 
 == Screenshots ==
 
-1. Screenshot of timer embeded in lesson page. Timer sits to the right of the Complete Lesson button.
-
+1. Screenshot of timer embedded in lesson page. Timer sits to the right of the Complete Lesson button.
+1. Screenshot of message popup within a lesson page when a student learner tries to leave the lesson page.
+1. Screenshot of Admin Timer message. Under Settings->Reading, at the bottom of the page, you will see a Warning message field. If left blank, lessons with lesson time will allow student learners to leave the page with no warning. If it contains a message, it will display the message when a student learner tries to click away from the lesson page prior to timer reaching zero.
 == Changelog ==
 
+= 1.1.0 =
+* Warning message support for student learners trying to click away from the lesson prior to timer reaching zero. Message can be configured in Settings->Reading under Sensei Lesson Timer section.
 = 1.0.0 =
 * First release version.
 
 == Upgrade Notice ==
-First release
+Second release
