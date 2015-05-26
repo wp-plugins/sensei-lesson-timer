@@ -3,7 +3,7 @@
 Plugin Name: Sensei Lesson Timer
 Plugin URI: http://www.skinnycatsoftware.com
 Description: This plugin adds timer to the Sensei lessons and enable/disable complete button.
-Version: 1.1.1-20150514B
+Version: 1.1.1
 Author: Skinny Cat Software, LLC
 Author URI: http://www.skinnycatsoftware.com
 Text Domain: sensei-lesson-timer
